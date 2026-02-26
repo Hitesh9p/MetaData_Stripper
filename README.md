@@ -43,15 +43,3 @@ Standard metadata removers often leave behind:
 This application is designed to be run locally. No images are stored permanently; they are processed in-memory or in temporary directories that are cleared immediately after the session ends.
 
 ---
-
-### A few suggestions for your GitHub:
-
-* **Requirements File:** Create a file named `requirements.txt` and add these lines so others can install it easily:
-    ```text
-    Flask==3.0.0
-    Pillow==10.1.0
-    Werkzeug==3.0.1
-    ```
-* **Deployment:** If you really want it online, I recommend **Render.com**. It’s free for small Python apps and connects directly to your GitHub.
-
-Would you like me to help you create the `requirements.txt` file or explain how to set this up on Render?
