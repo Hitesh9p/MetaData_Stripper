@@ -46,5 +46,5 @@ This application is designed to be run locally. No images are stored permanently
 
 ---
 
-If you wanna test it out check out the link 👇
+If you wanna test it out check out the link
 https://metadata-stripper.onrender.com/
