@@ -29,10 +29,11 @@ Standard metadata removers often leave behind:
    cd MetaData_Stripper
 
 2. **Install dependencies:**
+'''bash
     python -m venv .venv
     source .venv/bin/activate  # On Windows: .venv\Scripts\activate
     pip install -r requirements.txt   
-3. **Run the app:**
+4. **Run the app:**
     python app.py
 4 **Visit broswer**
     Visit http://localhost:5000 in your browser.
